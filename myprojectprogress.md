@@ -1,1 +1,1 @@
-I have progressed very well on my project.
+My project idea is for a web application that will design t-shirts for entities around campus. This would make it easier for frats/sororities and other clubs/organizations to create shirts for their events.
